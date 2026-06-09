@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" rx="32" fill="#23232E"/>
+  <!-- Mini chessboard pattern -->
+  <rect x="40" y="40" width="44" height="44" fill="#B88B6E"/>
+  <rect x="84" y="40" width="44" height="44" fill="#6B3F2A"/>
+  <rect x="128" y="40" width="44" height="44" fill="#B88B6E"/>
+  <rect x="172" y="40" width="44" height="44" fill="#6B3F2A"/>
+  <rect x="40" y="84" width="44" height="44" fill="#6B3F2A"/>
+  <rect x="84" y="84" width="44" height="44" fill="#B88B6E"/>
+  <rect x="128" y="84" width="44" height="44" fill="#6B3F2A"/>
+  <rect x="172" y="84" width="44" height="44" fill="#B88B6E"/>
+  <rect x="40" y="128" width="44" height="44" fill="#B88B6E"/>
+  <rect x="84" y="128" width="44" height="44" fill="#6B3F2A"/>
+  <rect x="128" y="128" width="44" height="44" fill="#B88B6E"/>
+  <rect x="172" y="128" width="44" height="44" fill="#6B3F2A"/>
+  <rect x="40" y="172" width="44" height="44" fill="#6B3F2A"/>
+  <rect x="84" y="172" width="44" height="44" fill="#B88B6E"/>
+  <rect x="128" y="172" width="44" height="44" fill="#6B3F2A"/>
+  <rect x="172" y="172" width="44" height="44" fill="#B88B6E"/>
+  <!-- King piece -->
+  <text x="128" y="165" font-family="Segoe UI Symbol,serif" font-size="110"
+        text-anchor="middle" fill="#1A1A1A" dy="4" dx="2">♚</text>
+  <text x="128" y="165" font-family="Segoe UI Symbol,serif" font-size="110"
+        text-anchor="middle" fill="white">♚</text>
+</svg>

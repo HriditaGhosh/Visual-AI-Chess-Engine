@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file alias="move.wav">sounds/move.wav</file>
+        <file alias="capture.wav">sounds/capture.wav</file>
+        <file alias="check.wav">sounds/check.wav</file>
+        <file alias="checkmate.wav">sounds/checkmate.wav</file>
+        <file alias="castle.wav">sounds/castle.wav</file>
+        <file alias="promotion.wav">sounds/promotion.wav</file>
+        <file alias="game_start.wav">sounds/game_start.wav</file>
+        <file alias="undo.wav">sounds/undo.wav</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="wK.svg">icons/wK.svg</file>
+        <file alias="wQ.svg">icons/wQ.svg</file>
+        <file alias="wR.svg">icons/wR.svg</file>
+        <file alias="wB.svg">icons/wB.svg</file>
+        <file alias="wN.svg">icons/wN.svg</file>
+        <file alias="wP.svg">icons/wP.svg</file>
+        <file alias="bK.svg">icons/bK.svg</file>
+        <file alias="bQ.svg">icons/bQ.svg</file>
+        <file alias="bR.svg">icons/bR.svg</file>
+        <file alias="bB.svg">icons/bB.svg</file>
+        <file alias="bN.svg">icons/bN.svg</file>
+        <file alias="bP.svg">icons/bP.svg</file>
+        <file alias="app_icon.svg">icons/app_icon.svg</file>
+    </qresource>
+</RCC>
