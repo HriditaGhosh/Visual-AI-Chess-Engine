@@ -1,6 +1,8 @@
 # ♟️ Visual AI Chess Engine (C++17 + Qt6)
 
-A fully-featured Chess application with a custom AI engine built entirely from scratch. It implements advanced chess search algorithms, intelligent heuristics, and core Data Structures and Algorithms (DSA) concepts to simulate strong and efficient gameplay. The engine uses techniques like Minimax search, Alpha-Beta pruning, iterative deepening, and move ordering to deliver competitive AI performance.Built with C++17 and Qt6, the application provides a smooth and interactive graphical user interface with features like Human vs AI gameplay, move history tracking, undo support, sound effects, and a modern responsive chess board experience.
+A fully-featured Chess application with a custom AI engine built entirely from scratch. It implements advanced chess search algorithms, intelligent heuristics, and core Data Structures and Algorithms (DSA) concepts to simulate strong and efficient gameplay. The engine uses techniques like Minimax search, Alpha-Beta pruning, iterative deepening, and move ordering to deliver competitive AI performance.
+
+Built with C++17 and Qt6, the application provides a smooth and interactive graphical user interface with features like Human vs AI gameplay, move history tracking, undo support, sound effects, and a modern responsive chess board experience.
 ---
 
 # 📥 Installation (Windows)
@@ -27,6 +29,12 @@ VisualChessAI_Installer.exe
 
 ✅ All required Qt6 DLLs, assets, sounds, and resources are bundled.
 
+
+<p align="center">
+
+[![Watch Demo🎥](https://youtu.be/i88dkWUKs4I?si=D2EXw-WWtvKalvdn)
+
+</p>
 ---
 
 # 🎮 Features
