@@ -29,12 +29,13 @@ VisualChessAI_Installer.exe
 
 ✅ All required Qt6 DLLs, assets, sounds, and resources are bundled.
 
+# 🎥 Demo
 
-<p align="center">
+♟️ Visual AI Chess Engine Gameplay Demo
 
-[![Watch Demo🎥](https://youtu.be/i88dkWUKs4I?si=D2EXw-WWtvKalvdn)
+▶️ Watch here:
+https://youtu.be/i88dkWUKs4I
 
-</p>
 ---
 
 # 🎮 Features
