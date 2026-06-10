@@ -12,7 +12,7 @@ Built with C++17 and Qt6, the application provides a smooth and interactive grap
 1. Go to:
 
 ```text
-https://github.com/HriditaGhosh/VisualAIChessEngine/releases/latest
+https://github.com/HriditaGhosh/Visual-AI-Chess-Engine/releases/tag/v1.0
 ```
 
 2. Download:
