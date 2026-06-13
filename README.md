@@ -35,6 +35,13 @@ VisualChessAI_Installer.exe
 
 ▶️ Watch here:
 https://youtu.be/i88dkWUKs4I
+<img width="1151" height="893" alt="Screenshot 2026-06-13 211117" src="https://github.com/user-attachments/assets/791e9f47-400d-44f1-87d3-a2123c07c982" />
+<img width="1151" height="888" alt="Screenshot 2026-06-13 211056" src="https://github.com/user-attachments/assets/f7db6041-120a-4b4f-b997-584074805f8f" />
+<img width="1368" height="941" alt="Screenshot 2026-06-13 211012" src="https://github.com/user-attachments/assets/1219b454-44be-4584-a8ea-a51581cb4521" />
+<img width="1137" height="887" alt="Screenshot 2026-06-13 210900" src="https://github.com/user-attachments/assets/5d1951e1-01d6-4f0d-8d6a-5b6e66759691" />
+<img width="1149" height="887" alt="Screenshot 2026-06-13 210818" src="https://github.com/user-attachments/assets/16bcfeb2-f77c-4420-8e8e-5993bc3d5325" />
+<img width="1137" height="897" alt="Screenshot 2026-06-13 210753" src="https://github.com/user-attachments/assets/5f3f94ca-f2c6-46b3-b55d-d58f8e4c4b0a" />
+<img width="1148" height="896" alt="Screenshot 2026-06-13 210724" src="https://github.com/user-attachments/assets/b2d7edcb-2e8c-4007-917c-1f4f4bf6b1b0" />
 
 ---
 
